@@ -1,14 +1,14 @@
 # DSA-with-Java
 My Java DSA learning journey — practicing Data Structures, Algorithms, problem-solving, and coding interview questions using Java.
 
-# Java DSA Journey 🚀
+# Java DSA Journey 
 Welcome to my **Java Data Structures and Algorithms (DSA)** learning repository.
 
 I am a Computer Science graduate learning Java and improving my problem-solving skills to prepare for software development roles and technical interviews.
 
 This repository documents my learning journey through Java programs, DSA concepts, and coding practice.
 
-## 🎯 Goals
+## Goals
 
 - Strengthen Java programming fundamentals.
 - Learn Data Structures and Algorithms step by step.
@@ -16,7 +16,7 @@ This repository documents my learning journey through Java programs, DSA concept
 - Practice writing clean and readable code.
 - Prepare for coding interviews.
 
-## 📚 Learning Roadmap
+## Learning Roadmap
 
 | No. | Topic | Status |
 |---|---|---|
@@ -34,7 +34,7 @@ This repository documents my learning journey through Java programs, DSA concept
 | 12 | Greedy Algorithms and Dynamic Programming | Planned |
 | 13 | Coding Interview Practice | Planned |
 
-## 💻 First Java Program
+## First Java Program
 
 public class Main {
     public static void main(String[] args) {
@@ -48,13 +48,13 @@ public class Main {
 Hello World
 
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 - **Language:** Java
 - **IDE:** IntelliJ IDEA
 - **Version Control:** Git and GitHub
 
-## 📖 Learning Resources
+## Learning Resources
 
 - [Kunal Kushwaha — DSA with Java]
 - [Official Java Documentation]
@@ -62,8 +62,64 @@ Hello World
 - [LeetCode]
 - [GeeksforGeeks]
 
-## 🌱 My Approach
+## My Approach
 
 I believe in learning concepts, writing code independently, solving problems consistently, and improving through practice.
 
 **Learning step by step. Coding with Java. Growing as a problem solver.**
+
+
+## 📚 Git & GitHub – Learning Notes
+
+As part of my Java and Data Structures & Algorithms (DSA) learning journey, I explored Git and GitHub to understand how developers track code changes, manage projects, and collaborate effectively.
+
+### 🔹 Key Concepts Explored
+
+**1. Introduction to Git & GitHub**
+- Version Control Systems (VCS)
+- Git vs GitHub
+- Importance of version control
+
+**2. Git Fundamentals**
+- Initializing a Git repository
+- Working Directory and Staging Area
+- Tracking, staging, and committing changes
+- Commit history
+- Managing and reverting changes
+- Git Stash
+
+**3. GitHub & Remote Repositories**
+- Creating repositories
+- Connecting local and remote repositories
+- Pushing changes to GitHub
+
+**4. Branching & Merging**
+- Creating and switching branches
+- Merging branches
+- Managing branch changes
+
+**5. Open-Source Collaboration**
+- Forking and cloning repositories
+- Understanding upstream repositories
+- Pull Requests
+- Synchronizing forked repositories
+
+**6. Advanced Git Concepts**
+- Git Squash
+- Git Rebase
+- Git Reset
+- Resolving merge conflicts
+
+### 🛠️ Tools Explored
+- Git
+- GitHub
+- Git Bash
+
+### 📖 Learning Resource
+Kunal Kushwaha – Complete Git & GitHub Tutorial (YouTube).
+
+### Next Step
+Apply these concepts through hands-on practice and use Git and GitHub to maintain and manage my Java and DSA practice projects.
+
+### 📄 Learning Material
+[View Git & GitHub Learning Carousel](07-Git-GitHub/Git-GitHub-Carousel.pdf)
