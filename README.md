@@ -123,3 +123,24 @@ Apply these concepts through hands-on practice and use Git and GitHub to maintai
 
 ### 📄 Learning Material
 [View Git & GitHub Learning Carousel](07-Git-GitHub/Git-GitHub-Carousel.pdf)
+
+
+📚 **Java & DSA Learning Update**
+
+Started my Data Structures and Algorithms journey with Java, following Kunal Kushwaha's DSA Bootcamp.
+
+This repository tracks my learning progress, programming fundamentals, Java practice, and problem-solving journey.
+
+**Topics covered so far:**
+- Programming Languages & Paradigms
+- Static vs Dynamic Typing
+- Errors & Debugging Fundamentals
+- Stack, Heap & Memory Management
+- Objects, References & Garbage Collection
+- Flowcharts & Pseudocode
+- Prime Number Logic & Optimization
+- Java, JVM, JRE & JDK
+
+Continuously learning, practicing, and strengthening my programming fundamentals. 🚀
+
+#Java #DSA #Programming #ProblemSolving #LearningJourney
